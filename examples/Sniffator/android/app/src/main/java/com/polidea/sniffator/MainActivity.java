@@ -1,4 +1,4 @@
-package com.sniffator;
+package com.polidea.sniffator;
 
 import com.facebook.react.ReactActivity;
 
